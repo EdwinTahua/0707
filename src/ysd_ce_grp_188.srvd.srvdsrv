@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service definition custom entity'
+define service Ysd_ce_grp_188 {
+  expose yce_grp_188 as Bank;
+}
